@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.7.5",
+	"FriendlyName": "Pak Creator Plugin",
+	"Description": "Tool for packaging pak files out of content plugins.",
+	"Category": "Other",
+	"CreatedBy": "Blue Mountains GmbH",
+	"CreatedByURL": "https://bluemountains.io",
+	"DocsURL": "https://drive.google.com/file/d/1SDRMC3Nwdn3bSy09VVlvAMofmpKnB1Cd/view?usp=share_link",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d89deab1d6e54d108ca0280f204eb1d9",
+	"SupportURL": "unreal.mp@bluemountains.io",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "PakCreator",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Linux",
+				"Mac"
+			]
+		}
+	]
+}

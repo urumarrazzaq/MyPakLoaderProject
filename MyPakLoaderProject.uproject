@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.7",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyPakLoaderProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"TargetPlatforms": [
+		"Windows"
+	]
+}
